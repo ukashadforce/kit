@@ -8,3 +8,4 @@
 	"bumpVersionsWithWorkspaceProtocolOnly": true,
 	"ignore": ["!(@sveltejs/*|create-svelte)"]
 }
+"bumpVersionsWithWorkspaceProtocolOnly": true,

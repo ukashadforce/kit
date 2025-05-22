@@ -8,4 +8,6 @@
 	"bumpVersionsWithWorkspaceProtocolOnly": true,
 	"ignore": ["!(@sveltejs/*|create-svelte)"]
 }
+	"access": "public",
+	"baseBranch": "main",
 "bumpVersionsWithWorkspaceProtocolOnly": true,
